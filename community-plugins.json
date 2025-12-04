@@ -18828,5 +18828,12 @@
     "author": "hydrateagent",
     "description": "Cursor-like note agent with MCP support.",
     "repo": "hydrateagent/hydrate"
-  }
+  },
+  {
+		"id": "keltans-auto-correct",
+		"name": "Auto Correct",
+		"author": "Notkeltan",
+		"description": "A minimalist plugin that automatically corrects misspelled words as you type.",
+		"repo": "Notkeltan/keltan-s-Auto-Correct"
+	}
 ]
